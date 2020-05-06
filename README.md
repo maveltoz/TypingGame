@@ -1,4 +1,4 @@
-#Typing Game implemented in Java.
+* [Typing Game implemented in Java.]
 * Menu
 * Game
 * Ranking
