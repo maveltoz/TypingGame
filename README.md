@@ -1,5 +1,5 @@
 # Typing Game implemented in JAVA
-[Sonagi]
+Sonagi
 
 # Contents
 * Menu
