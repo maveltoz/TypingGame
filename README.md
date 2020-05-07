@@ -1,5 +1,4 @@
-# Typing Game implemented in JAVA
-Sonagi
+# Typing Game similar to Sonagi
 
 # Contents
 * Menu
